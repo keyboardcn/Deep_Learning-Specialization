@@ -1,5 +1,4 @@
-# Deep_Learning-Specialization
-Neural Networks and Deep Learning
+# Neural Networks and Deep Learning
 - Week 1 - 'Cat' vs 'No Cat' - Logistic Regression with a Neural Network mindset
 
 - Week 2 - 'Planar Data Classfication' - Planar data classification with one hidden layer
@@ -9,7 +8,7 @@ Neural Networks and Deep Learning
 - Week 4 - 'Cat' vs 'No Cat' in Deep NN - Deep Neural Network for Image Classification: Application
 
 
-Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+# Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
 - Week 1 - PA 1 - Initialization
 
@@ -21,18 +20,18 @@ Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimi
 
 - Week 3 - PA 5 - TensorFlow Tutorial
 
-Convolutional Neural Networks
+# Convolutional Neural Networks
 
-Week 1 - PA 1 - Convolutional Model: step by step
+- Week 1 - PA 1 - Convolutional Model: step by step
 
-Week 1 - PA 2 - Convolutional Model: application
+- Week 1 - PA 2 - Convolutional Model: application
 
-Week 2 - PA 1 - Keras - Tutorial - Happy House
+- Week 2 - PA 1 - Keras - Tutorial - Happy House
 
-Week 2 - PA 2 - Residual Networks
+- Week 2 - PA 2 - Residual Networks
 
-Sequence Models
+# Sequence Models
 
-Week 1 - PA 1 - Building a Recurrent Neural Network - Step by Step
+- Week 1 - PA 1 - Building a Recurrent Neural Network - Step by Step
 
-Week 1 - PA 2 - Character level language model - Dinosaurus land
+- Week 1 - PA 2 - Character level language model - Dinosaurus land
